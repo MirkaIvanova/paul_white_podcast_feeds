@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Paul White Ministries1</title><atom:link href="https://feed.podbean.com/pwmmedia/feed.xml" rel="self" type="application/rss+xml"/><link>http://www.paulwhiteministries.org</link><Description>Description...</Description><pubDate>Sat, 28 Jan 2023 02:02:00 -0800</pubDate><copyright>Copyright ...</copyright><category>Religion</category><ttl>1440</ttl><itunes:type>episodic</itunes:type><itunes:subtitle>Subtitle...</itunes:subtitle><itunes:summary>Summary...</itunes:summary><itunes:author>Paul White Ministries2</itunes:author><itunes:owner><itunes:name>Paul White Ministries3</itunes:name></itunes:owner><itunes:block>No</itunes:block><itunes:explicit>no</itunes:explicit><itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg"/><image><url>https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg</url><title>Paul White Ministries4</title><link>http://www.paulwhiteministries.org</link><width>144</width><height>144</height></image>
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0" 
+        xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+        xmlns:wfw="http://wellformedweb.org/CommentAPI/" 
+        xmlns:dc="http://purl.org/dc/elements/1.1/" 
+        xmlns:atom="http://www.w3.org/2005/Atom" 
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+        xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" 
+        xmlns:spotify="http://www.spotify.com/ns/rss" 
+        xmlns:podcast="https://podcastindex.org/namespace/1.0" 
+        xmlns:media="http://search.yahoo.com/mrss/">
+        
+        <channel>
+            <title>PWM - All Podcasts</title>
+            <description>PWM - All Podcasts till 31 Jan 2023</description>
+            <pubDate>03 Feb 2023 02:02:00 -0800</pubDate>
+            <atom:link href="https://feed.podbean.com/pwmmedia/feed.xml" rel="self" type="application/rss+xml"/>
+            <link>http://www.paulwhiteministries.org</link>
+            <copyright>Copyright ...</copyright>
+            <category>Religion</category>
+            <ttl>1440</ttl>
+            <itunes:type>episodic</itunes:type>
+            <itunes:subtitle>Subtitle...</itunes:subtitle>
+            <itunes:summary>Summary...</itunes:summary>
+            <itunes:author>Paul White Ministries2</itunes:author>
+            <itunes:owner><itunes:name>Paul White Ministries3</itunes:name></itunes:owner>
+            <itunes:block>No</itunes:block>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg"/>
+            <image><url>https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg</url><title>Paul White Ministries4</title><link>http://www.paulwhiteministries.org</link><width>144</width><height>144</height></image>
 
 <item><pubDate>Tue, 31 Jan 2023 05:29:33</pubDate><itunes:title>Deeper Daily Podcast- January 31, 2023</itunes:title><itunes:summary>On this episode, Paul White shares this month's Essay Edition.</itunes:summary><enclosure url="https://mcdn.podbean.com/mf/web/amyzcb/Essay_Edition_-_January_2023_a2rcu.mp3" length="1048576" type="audio/mpeg"/><itunes:duration>00:13:53</itunes:duration><itunes:episode>1</itunes:episode><itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg"/></item>
 <item><pubDate>Mon, 30 Jan 2023 02:01:00</pubDate><itunes:title>Deeper Daily Podcast- January 30, 2023</itunes:title><itunes:summary>On this episode, Paul White continues to talk about the healing of the paralytic man. Accompanying scripture: Mark 2:8-12.</itunes:summary><enclosure url="https://mcdn.podbean.com/mf/web/3rppw4/Jan_30_2023_Podbhved.mp3" length="1048576" type="audio/mpeg"/><itunes:duration>00:07:30</itunes:duration><itunes:episode>1</itunes:episode><itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg"/></item>

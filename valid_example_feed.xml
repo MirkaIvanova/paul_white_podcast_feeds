@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:spotify="http://www.spotify.com/ns/rss"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+	<channel>
+		<title>Paul White Ministries1</title>
+		<atom:link href="https://feed.podbean.com/pwmmedia/feed.xml" rel="self" type="application/rss+xml"/>
+		<link>http://www.paulwhiteministries.org</link>
+		<description>Here you will find recent audio sermons and episodes of the Deeper Daily Podcast. We are committed to to the preaching of the message of God’s amazing grace, be blessed as you listen!</description>
+		<pubDate>Sat, 28 Jan 2023 02:02:00 -0800</pubDate>
+		<copyright>Copyright © 2022 Paul White Ministries. All rights reserved.</copyright>
+		<category>Religion &amp; Spirituality</category>
+		<ttl>1440</ttl>
+		<itunes:type>episodic</itunes:type>
+		<itunes:subtitle>Subtitle...</itunes:subtitle>
+		<itunes:summary>Summary...</itunes:summary>
+		<itunes:author>Paul White Ministries2</itunes:author>
+		<itunes:owner><itunes:name>Paul White Ministries3</itunes:name></itunes:owner>
+		<itunes:block>No</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg" />
+		<image>
+			<url>https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg</url>
+			<title>Paul White Ministries4</title>
+			<link>http://www.paulwhiteministries.org</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+			
+		<item>
+			<itunes:title>Deeper Daily Podcast- January 28, 2023</itunes:title>
+			<pubDate>Sat, 28 Jan 2023 02:02:00 -0800</pubDate>
+			<enclosure url="https://mcdn.podbean.com/mf/web/bhwf7g/Jan_28_2023_Pod69e6s.mp3" length="11737256" type="audio/mpeg"/>
+			<itunes:summary>On this episode, Paul White talks about Jesus at Capernaum. Accompanying scripture: Mark 2:1-2.</itunes:summary>
+			<itunes:duration>08:08</itunes:duration>
+			<itunes:episode>2825</itunes:episode>
+			<itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg" />
+		</item>
+                
+		<item>
+			<title>Deeper Daily Podcast- January 27, 2023</title>
+			<itunes:title>Deeper Daily Podcast- January 27, 2023</itunes:title>
+			<link>https://pwmmedia.podbean.com/e/deeper-daily-podcast-january-27-2023/</link>
+			<comments>https://pwmmedia.podbean.com/e/deeper-daily-podcast-january-27-2023/#comments</comments>        <pubDate>Fri, 27 Jan 2023 02:01:00 -0800</pubDate>
+			<guid isPermaLink="false">pwmmedia.podbean.com/3038a9f7-3f33-3583-915c-06563e153a93</guid>
+			<description><![CDATA[<p>On this episode, Paul White talks about Jesus' interaction with a leper. Accompanying scripture: Mark 1:44-45. </p>
+	]]></description>
+			<content:encoded><![CDATA[<p>On this episode, Paul White talks about Jesus' interaction with a leper. Accompanying scripture: Mark 1:44-45. </p>
+	]]></content:encoded>
+			<enclosure url="https://mcdn.podbean.com/mf/web/49ju7d/Jan_27_2023_Podahw3t.mp3" length="12806813" type="audio/mpeg"/>
+			<itunes:subtitle>On this episode, Paul White talks about Jesus' interaction with a leper. Accompanying scripture: Mark 1:44-45. </itunes:subtitle>
+			<itunes:summary><![CDATA[On this episode, Paul White talks about Jesus' interaction with a leper. Accompanying scripture: Mark 1:44-45. ]]></itunes:summary>
+			<itunes:author>Paul White Ministries</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:block>No</itunes:block>
+			<itunes:duration>08:53</itunes:duration>
+			<itunes:episode>2824</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/131712/PWM_Logo_iTunes_x89qaz.jpg" />
+		</item>
+	</channel>
+</rss>
